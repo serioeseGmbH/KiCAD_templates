@@ -1,6 +1,6 @@
 [submodule "lib/OPL_Kicad_Library"]
-	path = lib/OPL_Kicad_Library
+	path = ESP32-D2WD/lib/OPL_Kicad_Library
 	url = https://github.com/serioeseGmbH/OPL_Kicad_Library.git
 [submodule "lib/ESP32-kiCAD-Footprints"]
-	path = lib/ESP32-kiCAD-Footprints
+	path = ESP32-D2WD/lib/ESP32-kiCAD-Footprints
 	url = https://github.com/serioeseGmbH/ESP32-kiCAD-Footprints.git
